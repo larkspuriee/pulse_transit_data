@@ -14,8 +14,10 @@
     { "routeNumber": "AJ2B", "origin": "Sri Nilam", "destination": "AEON Big Ampang", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "AJ03", "origin": "Stesen LRT Cempaka", "destination": "Bukit Teratai", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "AJ04", "origin": "Pandan Perdana", "destination": "Hospital Ampang", "frequency": { "type": "minutes", "value": 40, "raw": "40" }, "routeLink": "LINK" },
+    
     { "routeNumber": "DS01AM", "origin": "Stesen LRT Ampang", "destination": "KLCC", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
     { "routeNumber": "DS01PM", "origin": "KLCC", "destination": "Stesen LRT Ampang", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
+ 
     { "routeNumber": "400", "origin": "Damai Perdana", "destination": "Hab Lebuh Pudu via Bukit Bintang", "frequency": { "type": "minutes", "value": 10, "raw": "10" }, "routeLink": "LINK" },
     { "routeNumber": "402", "origin": "Terminal Maluri", "destination": "Titiwangsa", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
     { "routeNumber": "420", "origin": "Pandan Indah", "destination": "Menara Maybank – Bukit Bintang", "frequency": { "type": "minutes", "value": 10, "raw": "10" }, "routeLink": "LINK" },
@@ -31,6 +33,7 @@
     { "routeNumber": "KJ04", "origin": "Hentian Kajang", "destination": "Bandar Baru Bangi", "frequency": { "type": "minutes", "value": 45, "raw": "45" }, "routeLink": "LINK" },
     { "routeNumber": "HLB3", "origin": "Stesen MRT Maluri", "destination": "Hong Leong Bank PJ City", "frequency": { "type": "trips", "value": 2, "raw": "2 TRIPS" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "801", "origin": "Bandar Utama", "destination": "Metro Prima", "frequency": { "type": "minutes", "value": 70, "raw": "70" }, "routeLink": "LINK" },
     { "routeNumber": "802", "origin": "Stesen LRT Kelana Jaya", "destination": "Kota Damansara", "frequency": { "type": "minutes", "value": 70, "raw": "70" }, "routeLink": "LINK" },
     { "routeNumber": "821", "origin": "Pantai Hill Park", "destination": "Pasar Seni", "frequency": { "type": "minutes", "value": 8, "raw": "8" }, "routeLink": "LINK" },
@@ -40,6 +43,7 @@
     { "routeNumber": "T851", "origin": "KL Sentral", "destination": "Parlimen", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "PBD1", "origin": "MRT Pusat Bandar Damansara", "destination": "Damanlela Open Car Park", "frequency": { "type": "minutes", "value": 15, "raw": "15" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "170", "origin": "Hab Wira Damai", "destination": "Stesen MRT Titiwangsa", "frequency": { "type": "minutes", "value": 35, "raw": "35" }, "routeLink": "LINK" },
     { "routeNumber": "171", "origin": "Hab Wira Damai", "destination": "Lebuh Ampang via Sentul", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "173", "origin": "Taman Jasa Utama", "destination": "Lebuh Ampang", "frequency": { "type": "minutes", "value": 10, "raw": "10" }, "routeLink": "LINK" },
@@ -54,6 +58,7 @@
     { "routeNumber": "T120", "origin": "Kompleks Sungai Mas", "destination": "Taman Mastiara", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
     { "routeNumber": "151", "origin": "Bandar Baru Selayang", "destination": "Hab Lebuh Pudu", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "600", "origin": "Puchong Utama", "destination": "Hab Pasar Seni", "frequency": { "type": "minutes", "value": 5, "raw": "5" }, "routeLink": "LINK" },
     { "routeNumber": "602", "origin": "Puchong Prima", "destination": "IOI Puchong", "frequency": { "type": "minutes", "value": 20, "raw": "20" }, "routeLink": "LINK" },
     { "routeNumber": "640", "origin": "Hab Sri Manja", "destination": "Hab Pasar Seni", "frequency": { "type": "minutes", "value": 10, "raw": "10" }, "routeLink": "LINK" },
@@ -70,6 +75,7 @@
     { "routeNumber": "T605", "origin": "LRT Bandar Puteri", "destination": "Bandar Puteri", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "T602", "origin": "Puchong Utama", "destination": "Taman Saujana Puchong", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "200", "origin": "UIA Gombak", "destination": "Sogo KL", "frequency": { "type": "minutes", "value": 15, "raw": "15" }, "routeLink": "LINK" },
     { "routeNumber": "201", "origin": "Batu 12 Gombak", "destination": "Stesen MRT Titiwangsa", "frequency": { "type": "minutes", "value": 50, "raw": "50" }, "routeLink": "LINK" },
     { "routeNumber": "202", "origin": "Hab Wira Damai", "destination": "Lebuh Ampang via Gombak", "frequency": { "type": "minutes", "value": 15, "raw": "15" }, "routeLink": "LINK" },
@@ -91,6 +97,7 @@
     { "routeNumber": "BET16", "origin": "Warta Baru", "destination": "Putrajaya", "frequency": { "type": "trips", "value": 2, "raw": "2 TRIPS" }, "routeLink": "LINK" },
     { "routeNumber": "BET17", "origin": "Pinggiran Batu Caves", "destination": "Putrajaya", "frequency": { "type": "trips", "value": 2, "raw": "2 TRIPS" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "708", "origin": "Klang", "destination": "Sunway Pyramid via Hentian Bandar", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
     { "routeNumber": "750", "origin": "Hab Seksyen 2", "destination": "Hab Pasar Seni", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "753", "origin": "Hentian Bandar Shah Alam", "destination": "UiTM Puncak Alam", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
@@ -141,6 +148,7 @@
     { "routeNumber": "T790", "origin": "Stesen LRT Paramount", "destination": "Mid Valley", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "T791", "origin": "Stesen LRT Kerinchi", "destination": "Pantai Hill Park", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
 
+    
     { "routeNumber": "506", "origin": "Putrajaya Sentral", "destination": "Bandar Utama", "frequency": { "type": "minutes", "value": 45, "raw": "45" }, "routeLink": "LINK" },
     { "routeNumber": "540", "origin": "Putra Permai", "destination": "Stesen KTM Serdang", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
     { "routeNumber": "T571", "origin": "Stesen KTM Serdang", "destination": "Taman Sri Pulai", "frequency": { "type": "minutes", "value": 60, "raw": "60" }, "routeLink": "LINK" },
@@ -150,7 +158,9 @@
     { "routeNumber": "590", "origin": "Bandar Sungai Long", "destination": "Hab Pasar Seni", "frequency": { "type": "minutes", "value": 15, "raw": "15" }, "routeLink": "LINK" },
     { "routeNumber": "T580", "origin": "Stesen LRT Awan Besar", "destination": "TPM via Stesen LRT Bukit Jalil", "frequency": { "type": "minutes", "value": 40, "raw": "40" }, "routeLink": "LINK" },
     { "routeNumber": "T581", "origin": "Stesen LRT Alam Sutera", "destination": "PPR Pinggiran Bukit Jalil", "frequency": { "type": "minutes", "value": 30, "raw": "30" }, "routeLink": "LINK" },
-        { "routeNumber": "T100", "origin": "Sg.Buloh MRT Station", "destination": "Kuarters Integrasi Sg Buloh", "frequency": null, "routeLink": "LINK" },
+
+    
+    { "routeNumber": "T100", "origin": "Sg.Buloh MRT Station", "destination": "Kuarters Integrasi Sg Buloh", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T101", "origin": "Sg.Buloh MRT Station", "destination": "Bukit Rahman Putra", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T102", "origin": "Sg.Buloh MRT Station", "destination": "Kampung Kubu Gajah", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T105", "origin": "Sg.Buloh MRT Station", "destination": "Taman Impian Indah", "frequency": null, "routeLink": "LINK" },
@@ -170,10 +180,8 @@
     { "routeNumber": "T118", "origin": "Sri Delima MRT Station", "destination": "Taman Kok Doh", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T119", "origin": "Kentonmen MRT Station", "destination": "Taman Perindustrian Segambut", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T180", "origin": "Sentul Barat MRT Station", "destination": "Taman Dato Senu / Bandar Baru Sentul", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T418", "origin": "Chan Sow Lin MRT Station", "destination": "Kenanga Mall", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T419", "origin": "Chan Sow Lin MRT Station", "destination": "Razak Mansion", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T801", "origin": "Kwasa Sentral MRT Station", "destination": "Seksyen 9 Kota Damansara", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T802", "origin": "Kwasa Sentral MRT Station", "destination": "Subang Bestari", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T803", "origin": "Kwasa Sentral MRT Station", "destination": "Hab Subang Suria", "frequency": null, "routeLink": "LINK" },
@@ -197,6 +205,7 @@
     { "routeNumber": "T821", "origin": "Semantan MRT Station", "destination": "Kompleks Mahkamah Kuala Lumpur", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T852", "origin": "Semantan MRT Station", "destination": "Mont Kiara", "frequency": null, "routeLink": "LINK" },
 
+    
     { "routeNumber": "T305", "origin": "Taman Midah MRT Station", "destination": "Bandar Baru Ampang / Sri Nilam", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T352", "origin": "Cochrane MRT Station", "destination": "Taman Shamelin Perkasa", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T400", "origin": "Cochrane MRT Station", "destination": "Bandar Tun Razak", "frequency": null, "routeLink": "LINK" },
@@ -212,7 +221,6 @@
     { "routeNumber": "T415", "origin": "Bandar Tun Hussein Onn MRT Station", "destination": "Bandar Mahkota Cheras", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T416", "origin": "Batu 11 Cheras MRT Station", "destination": "Taman Cheras Jaya", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T417", "origin": "Batu 11 Cheras MRT Station", "destination": "Taman Karunmas", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T453", "origin": "Bukit Dukung MRT Station", "destination": "Palm Walk 3", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T454", "origin": "Bukit Dukung MRT Station", "destination": "Taman Sekamat", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T455", "origin": "Bukit Dukung MRT Station", "destination": "Sutera Residences", "frequency": null, "routeLink": "LINK" },
@@ -225,31 +233,25 @@
     { "routeNumber": "T461", "origin": "Kajang MRT Station", "destination": "Taman Kajang Utama", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T462", "origin": "Kajang MRT Station", "destination": "Seksyen 8 Bandar Baru Bangi", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T463", "origin": "Kajang MRT Station", "destination": "Seksyen 4 Bandar Baru Bangi", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T504", "origin": "Cyberjaya Utara MRT Station", "destination": "Cyber 11", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T505", "origin": "Cyberjaya Utara MRT Station", "destination": "Taman Pinggiran Cyber", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T506", "origin": "Cyberjaya City Centre MRT Station", "destination": "Cyber 10", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T507", "origin": "Cyberjaya City Centre MRT Station", "destination": "Cyberjaya Transport Terminal", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T508", "origin": "Putrajaya Sentral MRT Station", "destination": "Presint 10", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T509", "origin": "Putrajaya Sentral MRT Station", "destination": "Presint 16 / Alamanda", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T510", "origin": "Putrajaya Sentral MRT Station", "destination": "Ayer 8", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T511", "origin": "Putrajaya Sentral MRT Station", "destination": "Presint 4 / Dataran Gemilang", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T512", "origin": "Putrajaya Sentral MRT Station", "destination": "Presint 11", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T542", "origin": "Taman Equine MRT Station", "destination": "Taman Pinggiran Putra", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T543", "origin": "Taman Equine MRT Station", "destination": "Taman Puncak Jalil / PUJ9", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T544", "origin": "Putra Permai MRT Station", "destination": "Taman Lestari Putra", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T585", "origin": "Kuchai MRT Station", "destination": "Taman Desa", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T586", "origin": "Kuchai MRT Station", "destination": "Taman Oversea Union (OUG)", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T587", "origin": "Kuchai MRT Station", "destination": "Desa Petaling", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T588", "origin": "Kuchai MRT Station", "destination": "Jalan Klang Lama", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T589", "origin": "Taman Naga Emas MRT Station", "destination": "Bandar Baru Sri Petaling", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T559", "origin": "Sungai Besi MRT Station", "destination": "Kampung Malaysia Tambahan", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T560", "origin": "Sungai Besi MRT Station", "destination": "Bandar Tasik Selatan", "frequency": null, "routeLink": "LINK" },
-
     { "routeNumber": "T561", "origin": "Serdang Raya Utara MRT Station", "destination": "The Park, Bukit Serdang", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T562", "origin": "Serdang Raya Utara MRT Station", "destination": "Serdang Perdana", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T563", "origin": "Serdang Raya Utara MRT Station", "destination": "TPM and Bukit Jalil", "frequency": null, "routeLink": "LINK" },
@@ -257,7 +259,61 @@
     { "routeNumber": "T565", "origin": "Serdang Jaya MRT Station", "destination": "The Mines", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T566", "origin": "UPM MRT Station", "destination": "Tmn Universiti Indah & Tmn Bkt Serdang", "frequency": null, "routeLink": "LINK" },
     { "routeNumber": "T567", "origin": "UPM MRT Station", "destination": "Taman Sri Serdang", "frequency": null, "routeLink": "LINK" },
-    { "routeNumber": "T568", "origin": "UPM MRT Station", "destination": "Faculty Pertanian UPM", "frequency": null, "routeLink": "LINK" }
+    { "routeNumber": "T568", "origin": "UPM MRT Station", "destination": "Faculty Pertanian UPM", "frequency": null, "routeLink": "LINK" },
 
+    { "routeNumber": "11", "origin": "Pengkalan Weld", "destination": "Batu Lanchang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "12", "origin": "Pengkalan Weld", "destination": "Bandar Sri Pinang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "13", "origin": "Paya Terubong", "destination": "Lotus Penang E-Gate", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "CAT", "origin": "Pengkalan Weld", "destination": "Komtar", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "CAT15", "origin": "Komtar", "destination": "Hospital Besar Pulau Pinang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "101", "origin": "Pengkalan Weld", "destination": "Teluk Bahang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "102", "origin": "Lapangan Terbang Antarabangsa Bayan Lepas", "destination": "Teluk Bahang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "103", "origin": "Komtar", "destination": "Pulau Tikus", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "104", "origin": "Komtar", "destination": "Tanjung Bungah", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "201", "origin": "Pengkalan Weld", "destination": "Paya Terubong", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "202", "origin": "Pengkalan Weld", "destination": "Paya Terubong", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "203", "origin": "Pengkalan Weld", "destination": "Pekan Air Itam", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "204", "origin": "Pengkalan Weld", "destination": "Bukit Bendera", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "206", "origin": "Lotus Penang E-Gate", "destination": "Pengkalan Weld", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "301", "origin": "Pengkalan Weld", "destination": "Relau", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "302", "origin": "Pengkalan Weld", "destination": "Batu Maung", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "303", "origin": "Pengkalan Weld", "destination": "Bukit Gedung", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "304", "origin": "Persiaran Gurney", "destination": "Bukit Gedung", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "306", "origin": "Lapangan Terbang Antarabangsa Bayan Lepas", "destination": "Hospital Besar Pulau Pinang", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "308", "origin": "Sungai Nibong", "destination": "Gertak Sanggul", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "401", "origin": "Pengkalan Weld", "destination": "Teluk Kumbar", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "401E", "origin": "Pengkalan Weld", "destination": "Terminal Bas Balik Pulau", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "403", "origin": "Terminal Bas Balik Pulau", "destination": "Pulau Betong", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "404", "origin": "Terminal Bas Balik Pulau", "destination": "Pantai Acheh", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "502", "origin": "Pengkalan Weld", "destination": "Pekan Genting, Balik Pulau", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "T310", "origin": "Universiti Sains Malaysia", "destination": "Queenbay Mall", "frequency": null, "routeLink": "LINK" },
+
+    { "routeNumber": "601", "origin": "Penang Sentral", "destination": "Kepala Batas", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "603", "origin": "Penang Sentral", "destination": "Kuala Muda", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "604", "origin": "Penang Sentral", "destination": "Taman Desa Murni", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "605", "origin": "Penang Sentral", "destination": "Teluk Air Tawar", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "606", "origin": "Bukit Mertajam", "destination": "Kepala Batas", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "610", "origin": "Kepala Batas", "destination": "Tasek Gelugor", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "613", "origin": "Penang Sentral", "destination": "Padang Serai", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "701", "origin": "Penang Sentral", "destination": "Bukit Mertajam", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "702", "origin": "Penang Sentral", "destination": "Bukit Mertajam", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "703", "origin": "Penang Sentral", "destination": "Seberang Jaya", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "708", "origin": "Bukit Mertajam", "destination": "Junjung", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "709", "origin": "Penang Sentral", "destination": "Machang Bubuk", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "801", "origin": "Penang Sentral", "destination": "Nibong Tebal", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "802", "origin": "Bukit Mertajam", "destination": "Nibong Tebal", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "803", "origin": "Nibong Tebal", "destination": "Sungai Aceh", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "EB60", "origin": "Penang Sentral", "destination": "Sungai Petani", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "EB80", "origin": "Penang Sentral", "destination": "Parit Buntar", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "CAT13", "origin": "Seberang Jaya", "destination": "Terminal Bas Bayan Baru", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "CAT14", "origin": "Bukit Mertajam", "destination": "Terminal Bas Komtar", "frequency": null, "routeLink": "LINK" },
+
+    { "routeNumber": "P101", "origin": "PPJ191 - KOMPLEKS PARCEL F", "destination": "PPJ19 - HERIOT-WATT UNIVERSITY P5", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P102", "origin": "PPJ187 - KOMPLEKS PARCEL E (BARAT)", "destination": "PPJ111 - PERUMAHAN PRESINT 11C (BARAT)", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P103", "origin": "PPJ187 - KOMPLEKS PARCEL E (BARAT)", "destination": "HENTIAN P14", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P104", "origin": "PPJ34 - DATARAN GEMILANG", "destination": "PPJ14 - PRESINT 6 (SELATAN)", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P105", "origin": "PPJ34 - DATARAN GEMILANG", "destination": "PPJ187 - KOMPLEKS PARCEL E (BARAT)", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P106", "origin": "PPJ187 - KOMPLEKS PARCEL E (BARAT)", "destination": "PPJ41 - KEMENTERIAN PERTANIAN", "frequency": null, "routeLink": "LINK" },
+    { "routeNumber": "P108", "origin": "PPJ373 - PUTRAJAYA SENTRAL", "destination": "PPJ187 - KOMPLEKS PARCEL E (BARAT)", "frequency": null, "routeLink": "LINK" }
   ]
 }
